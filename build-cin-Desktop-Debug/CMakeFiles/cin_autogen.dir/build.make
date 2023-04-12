@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/charlie/LearnQt/cin
+CMAKE_SOURCE_DIR = /home/charlie/Documents/LearnQt/cin
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/charlie/LearnQt/build-cin-Desktop-Debug
+CMAKE_BINARY_DIR = /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug
 
 # Utility rule file for cin_autogen.
 
@@ -67,8 +67,8 @@ include CMakeFiles/cin_autogen.dir/compiler_depend.make
 include CMakeFiles/cin_autogen.dir/progress.make
 
 CMakeFiles/cin_autogen:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/charlie/LearnQt/build-cin-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target cin"
-	/usr/bin/cmake -E cmake_autogen /home/charlie/LearnQt/build-cin-Desktop-Debug/CMakeFiles/cin_autogen.dir/AutogenInfo.json Debug
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target cin"
+	/usr/bin/cmake -E cmake_autogen /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles/cin_autogen.dir/AutogenInfo.json Debug
 
 cin_autogen: CMakeFiles/cin_autogen
 cin_autogen: CMakeFiles/cin_autogen.dir/build.make
@@ -83,6 +83,6 @@ CMakeFiles/cin_autogen.dir/clean:
 .PHONY : CMakeFiles/cin_autogen.dir/clean
 
 CMakeFiles/cin_autogen.dir/depend:
-	cd /home/charlie/LearnQt/build-cin-Desktop-Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/charlie/LearnQt/cin /home/charlie/LearnQt/cin /home/charlie/LearnQt/build-cin-Desktop-Debug /home/charlie/LearnQt/build-cin-Desktop-Debug /home/charlie/LearnQt/build-cin-Desktop-Debug/CMakeFiles/cin_autogen.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/charlie/Documents/LearnQt/cin /home/charlie/Documents/LearnQt/cin /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles/cin_autogen.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/cin_autogen.dir/depend
 

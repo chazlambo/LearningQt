@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/charlie/LearnQt/build-cin-Desktop-Debug/cin_autogen/mocs_compilation.cpp" "CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.o.d"
-  "/home/charlie/LearnQt/cin/main.cpp" "CMakeFiles/cin.dir/main.cpp.o" "gcc" "CMakeFiles/cin.dir/main.cpp.o.d"
+  "/home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/cin_autogen/mocs_compilation.cpp" "CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.o.d"
+  "/home/charlie/Documents/LearnQt/cin/main.cpp" "CMakeFiles/cin.dir/main.cpp.o" "gcc" "CMakeFiles/cin.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.

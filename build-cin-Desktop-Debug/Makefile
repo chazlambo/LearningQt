@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/charlie/LearnQt/cin
+CMAKE_SOURCE_DIR = /home/charlie/Documents/LearnQt/cin
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/charlie/LearnQt/build-cin-Desktop-Debug
+CMAKE_BINARY_DIR = /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -132,9 +132,9 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/charlie/LearnQt/build-cin-Desktop-Debug/CMakeFiles /home/charlie/LearnQt/build-cin-Desktop-Debug//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/charlie/LearnQt/build-cin-Desktop-Debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

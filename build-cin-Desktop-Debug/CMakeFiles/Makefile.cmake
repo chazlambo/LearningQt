@@ -10,7 +10,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   ".qtc/package-manager/auto-setup.cmake"
   "CMakeFiles/3.22.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.22.1/CMakeSystem.cmake"
-  "/home/charlie/LearnQt/cin/CMakeLists.txt"
+  "/home/charlie/Documents/LearnQt/cin/CMakeLists.txt"
   "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake"
   "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake"
   "/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake"

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/charlie/LearnQt/cin
+CMAKE_SOURCE_DIR = /home/charlie/Documents/LearnQt/cin
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/charlie/LearnQt/build-cin-Desktop-Debug
+CMAKE_BINARY_DIR = /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/cin.dir/depend.make
@@ -72,30 +72,30 @@ include CMakeFiles/cin.dir/flags.make
 CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.o: CMakeFiles/cin.dir/flags.make
 CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.o: cin_autogen/mocs_compilation.cpp
 CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.o: CMakeFiles/cin.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charlie/LearnQt/build-cin-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.o -MF CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.o -c /home/charlie/LearnQt/build-cin-Desktop-Debug/cin_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.o -MF CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.o -c /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/cin_autogen/mocs_compilation.cpp
 
 CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charlie/LearnQt/build-cin-Desktop-Debug/cin_autogen/mocs_compilation.cpp > CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/cin_autogen/mocs_compilation.cpp > CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charlie/LearnQt/build-cin-Desktop-Debug/cin_autogen/mocs_compilation.cpp -o CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/cin_autogen/mocs_compilation.cpp -o CMakeFiles/cin.dir/cin_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/cin.dir/main.cpp.o: CMakeFiles/cin.dir/flags.make
-CMakeFiles/cin.dir/main.cpp.o: /home/charlie/LearnQt/cin/main.cpp
+CMakeFiles/cin.dir/main.cpp.o: /home/charlie/Documents/LearnQt/cin/main.cpp
 CMakeFiles/cin.dir/main.cpp.o: CMakeFiles/cin.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charlie/LearnQt/build-cin-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cin.dir/main.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cin.dir/main.cpp.o -MF CMakeFiles/cin.dir/main.cpp.o.d -o CMakeFiles/cin.dir/main.cpp.o -c /home/charlie/LearnQt/cin/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cin.dir/main.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cin.dir/main.cpp.o -MF CMakeFiles/cin.dir/main.cpp.o.d -o CMakeFiles/cin.dir/main.cpp.o -c /home/charlie/Documents/LearnQt/cin/main.cpp
 
 CMakeFiles/cin.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cin.dir/main.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charlie/LearnQt/cin/main.cpp > CMakeFiles/cin.dir/main.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charlie/Documents/LearnQt/cin/main.cpp > CMakeFiles/cin.dir/main.cpp.i
 
 CMakeFiles/cin.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cin.dir/main.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charlie/LearnQt/cin/main.cpp -o CMakeFiles/cin.dir/main.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charlie/Documents/LearnQt/cin/main.cpp -o CMakeFiles/cin.dir/main.cpp.s
 
 # Object files for target cin
 cin_OBJECTS = \
@@ -110,7 +110,7 @@ cin: CMakeFiles/cin.dir/main.cpp.o
 cin: CMakeFiles/cin.dir/build.make
 cin: /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3
 cin: CMakeFiles/cin.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/charlie/LearnQt/build-cin-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable cin"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable cin"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cin.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -122,6 +122,6 @@ CMakeFiles/cin.dir/clean:
 .PHONY : CMakeFiles/cin.dir/clean
 
 CMakeFiles/cin.dir/depend:
-	cd /home/charlie/LearnQt/build-cin-Desktop-Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/charlie/LearnQt/cin /home/charlie/LearnQt/cin /home/charlie/LearnQt/build-cin-Desktop-Debug /home/charlie/LearnQt/build-cin-Desktop-Debug /home/charlie/LearnQt/build-cin-Desktop-Debug/CMakeFiles/cin.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/charlie/Documents/LearnQt/cin /home/charlie/Documents/LearnQt/cin /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug /home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles/cin.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/cin.dir/depend
 
