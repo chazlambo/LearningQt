@@ -1,0 +1,8 @@
+/home/charlie/LearnQt/build-Arrays-Desktop-Debug/CMakeFiles/Arrays.dir
+/home/charlie/LearnQt/build-Arrays-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/charlie/LearnQt/build-Arrays-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/charlie/LearnQt/build-Arrays-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/charlie/LearnQt/build-Arrays-Desktop-Debug/CMakeFiles/install.dir
+/home/charlie/LearnQt/build-Arrays-Desktop-Debug/CMakeFiles/install/local.dir
+/home/charlie/LearnQt/build-Arrays-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/charlie/LearnQt/build-Arrays-Desktop-Debug/CMakeFiles/Arrays_autogen.dir

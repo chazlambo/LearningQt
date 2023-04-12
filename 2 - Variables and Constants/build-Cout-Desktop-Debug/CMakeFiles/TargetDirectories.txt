@@ -1,0 +1,8 @@
+/home/charlie/LearnQt/build-Cout-Desktop-Debug/CMakeFiles/Cout.dir
+/home/charlie/LearnQt/build-Cout-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/charlie/LearnQt/build-Cout-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/charlie/LearnQt/build-Cout-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/charlie/LearnQt/build-Cout-Desktop-Debug/CMakeFiles/install.dir
+/home/charlie/LearnQt/build-Cout-Desktop-Debug/CMakeFiles/install/local.dir
+/home/charlie/LearnQt/build-Cout-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/charlie/LearnQt/build-Cout-Desktop-Debug/CMakeFiles/Cout_autogen.dir

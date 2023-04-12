@@ -1,0 +1,25 @@
+# ninja log v5
+0	103	1681256745475761871	HelloWorld_autogen/timestamp	32cc9a03f64d817f
+0	103	1681256745475761871	HelloWorld_autogen/mocs_compilation.cpp	32cc9a03f64d817f
+0	103	1681256745475761871	/home/charlie/LearnQt/build-HelloWorld-Desktop_Qt_6_5_0_GCC_64bit-Debug/HelloWorld_autogen/timestamp	32cc9a03f64d817f
+0	103	1681256745475761871	/home/charlie/LearnQt/build-HelloWorld-Desktop_Qt_6_5_0_GCC_64bit-Debug/HelloWorld_autogen/mocs_compilation.cpp	32cc9a03f64d817f
+104	143	1681256745515762440	CMakeFiles/HelloWorld.dir/HelloWorld_autogen/mocs_compilation.cpp.o	d41b4344d4f8e06
+104	1388	1681256746767780206	CMakeFiles/HelloWorld.dir/main.cpp.o	8f26e74b6df813be
+1389	1477	1681256746859781509	HelloWorld	dc92de3005bcb9cf
+3	145	1681256919493261078	HelloWorld_autogen/timestamp	32cc9a03f64d817f
+3	145	1681256919493261078	HelloWorld_autogen/mocs_compilation.cpp	32cc9a03f64d817f
+3	145	1681256919493261078	/home/charlie/LearnQt/build-HelloWorld-Desktop_Qt_6_5_0_GCC_64bit-Debug/HelloWorld_autogen/timestamp	32cc9a03f64d817f
+3	145	1681256919493261078	/home/charlie/LearnQt/build-HelloWorld-Desktop_Qt_6_5_0_GCC_64bit-Debug/HelloWorld_autogen/mocs_compilation.cpp	32cc9a03f64d817f
+152	1216	1681256920573264932	CMakeFiles/HelloWorld.dir/main.cpp.o	8f26e74b6df813be
+1216	1330	1681256920685265330	HelloWorld	dc92de3005bcb9cf
+0	43	0	CMakeFiles/clean.additional	ef993b15a92b8f11
+43	57	0	clean	6705c2c27af4fa9f
+0	11	0	CMakeFiles/clean.additional	ef993b15a92b8f11
+11	29	0	clean	6705c2c27af4fa9f
+0	81	1681256938617320601	HelloWorld_autogen/timestamp	32cc9a03f64d817f
+0	81	1681256938617320601	HelloWorld_autogen/mocs_compilation.cpp	32cc9a03f64d817f
+0	81	1681256938617320601	/home/charlie/LearnQt/build-HelloWorld-Desktop_Qt_6_5_0_GCC_64bit-Debug/HelloWorld_autogen/timestamp	32cc9a03f64d817f
+0	81	1681256938617320601	/home/charlie/LearnQt/build-HelloWorld-Desktop_Qt_6_5_0_GCC_64bit-Debug/HelloWorld_autogen/mocs_compilation.cpp	32cc9a03f64d817f
+82	95	1681256938633320643	CMakeFiles/HelloWorld.dir/HelloWorld_autogen/mocs_compilation.cpp.o	d41b4344d4f8e06
+82	789	1681256939325322453	CMakeFiles/HelloWorld.dir/main.cpp.o	8f26e74b6df813be
+789	886	1681256939421322701	HelloWorld	dc92de3005bcb9cf
