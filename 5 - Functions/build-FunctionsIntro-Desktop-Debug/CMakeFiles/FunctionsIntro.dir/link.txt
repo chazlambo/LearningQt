@@ -1,1 +1,0 @@
-/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/FunctionsIntro.dir/FunctionsIntro_autogen/mocs_compilation.cpp.o CMakeFiles/FunctionsIntro.dir/main.cpp.o -o FunctionsIntro  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 
