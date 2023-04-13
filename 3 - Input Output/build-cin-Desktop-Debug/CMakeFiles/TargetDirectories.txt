@@ -1,8 +1,0 @@
-/home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles/cin.dir
-/home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles/install.dir
-/home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles/install/local.dir
-/home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles/install/strip.dir
-/home/charlie/Documents/LearnQt/build-cin-Desktop-Debug/CMakeFiles/cin_autogen.dir

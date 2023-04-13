@@ -1,1 +1,0 @@
-/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/Structs.dir/Structs_autogen/mocs_compilation.cpp.o CMakeFiles/Structs.dir/main.cpp.o -o Structs  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 

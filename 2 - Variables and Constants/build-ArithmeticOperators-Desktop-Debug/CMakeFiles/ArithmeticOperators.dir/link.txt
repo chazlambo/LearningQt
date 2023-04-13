@@ -1,1 +1,0 @@
-/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/ArithmeticOperators.dir/ArithmeticOperators_autogen/mocs_compilation.cpp.o CMakeFiles/ArithmeticOperators.dir/main.cpp.o -o ArithmeticOperators  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 

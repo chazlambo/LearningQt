@@ -1,1 +1,0 @@
-/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/Cout.dir/Cout_autogen/mocs_compilation.cpp.o CMakeFiles/Cout.dir/main.cpp.o -o Cout  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 

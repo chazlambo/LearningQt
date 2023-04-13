@@ -1,8 +1,0 @@
-/home/charlie/LearnQt/build-ArithmeticOperators-Desktop-Debug/CMakeFiles/ArithmeticOperators.dir
-/home/charlie/LearnQt/build-ArithmeticOperators-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/charlie/LearnQt/build-ArithmeticOperators-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/charlie/LearnQt/build-ArithmeticOperators-Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/charlie/LearnQt/build-ArithmeticOperators-Desktop-Debug/CMakeFiles/install.dir
-/home/charlie/LearnQt/build-ArithmeticOperators-Desktop-Debug/CMakeFiles/install/local.dir
-/home/charlie/LearnQt/build-ArithmeticOperators-Desktop-Debug/CMakeFiles/install/strip.dir
-/home/charlie/LearnQt/build-ArithmeticOperators-Desktop-Debug/CMakeFiles/ArithmeticOperators_autogen.dir

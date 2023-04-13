@@ -1,1 +1,0 @@
-/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/ExampleAgeCalculator.dir/ExampleAgeCalculator_autogen/mocs_compilation.cpp.o CMakeFiles/ExampleAgeCalculator.dir/main.cpp.o -o ExampleAgeCalculator  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 

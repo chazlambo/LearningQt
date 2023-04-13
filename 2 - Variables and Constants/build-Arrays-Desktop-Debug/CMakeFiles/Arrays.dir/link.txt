@@ -1,1 +1,0 @@
-/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/Arrays.dir/Arrays_autogen/mocs_compilation.cpp.o CMakeFiles/Arrays.dir/main.cpp.o -o Arrays  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 
