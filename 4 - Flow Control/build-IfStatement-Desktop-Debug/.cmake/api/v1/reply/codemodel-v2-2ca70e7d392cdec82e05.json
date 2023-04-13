@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-df3108fc5c8cd8951534.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "IfStatement",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "IfStatement::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IfStatement-Debug-ead9f4d37fe43c66d014.json",
+					"name" : "IfStatement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "IfStatement_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IfStatement_autogen-Debug-f79c022eb4ee058e9fc8.json",
+					"name" : "IfStatement_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/charlie/Documents/LearnQt/4 - Flow Control/build-IfStatement-Desktop-Debug",
+		"source" : "/home/charlie/Documents/LearnQt/4 - Flow Control/IfStatement"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

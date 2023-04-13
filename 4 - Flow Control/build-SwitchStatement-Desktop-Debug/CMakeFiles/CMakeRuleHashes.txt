@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+c1a486ca859fe9c65428e725943a9d8a CMakeFiles/SwitchStatement_autogen

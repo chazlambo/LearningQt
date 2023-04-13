@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/SwitchStatement.dir/SwitchStatement_autogen/mocs_compilation.cpp.o CMakeFiles/SwitchStatement.dir/main.cpp.o -o SwitchStatement  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 

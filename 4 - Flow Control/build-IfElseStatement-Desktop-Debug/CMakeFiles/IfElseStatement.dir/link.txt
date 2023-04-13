@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/IfElseStatement.dir/IfElseStatement_autogen/mocs_compilation.cpp.o CMakeFiles/IfElseStatement.dir/main.cpp.o -o IfElseStatement  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 
