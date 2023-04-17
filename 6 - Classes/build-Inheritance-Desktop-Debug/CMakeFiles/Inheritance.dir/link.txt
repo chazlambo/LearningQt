@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/Inheritance.dir/Inheritance_autogen/mocs_compilation.cpp.o CMakeFiles/Inheritance.dir/main.cpp.o CMakeFiles/Inheritance.dir/animal.cpp.o CMakeFiles/Inheritance.dir/mammal.cpp.o CMakeFiles/Inheritance.dir/canine.cpp.o CMakeFiles/Inheritance.dir/feline.cpp.o -o Inheritance  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 
