@@ -1,8 +1,0 @@
-# ninja log v5
-1	163	1683012146080326960	BasicReceive_autogen/timestamp	b9283c7f46150c41
-1	163	1683012146080326960	BasicReceive_autogen/mocs_compilation.cpp	b9283c7f46150c41
-1	163	1683012146080326960	/home/charlie/Documents/QtSerial/build-BasicSerial-Desktop_Qt_6_5_0_GCC_64bit-Debug/BasicReceive_autogen/timestamp	b9283c7f46150c41
-1	163	1683012146080326960	/home/charlie/Documents/QtSerial/build-BasicSerial-Desktop_Qt_6_5_0_GCC_64bit-Debug/BasicReceive_autogen/mocs_compilation.cpp	b9283c7f46150c41
-164	216	1683012146096318961	CMakeFiles/BasicReceive.dir/BasicReceive_autogen/mocs_compilation.cpp.o	29023b1e04463325
-163	1057	1683012146979876960	CMakeFiles/BasicReceive.dir/main.cpp.o	f72af94eea01bbd2
-1057	1178	1683012147095818960	BasicReceive	d99425ccbc7e6f0c

@@ -1,9 +1,0 @@
-/home/charlie/Documents/QtSerial/build-BasicSerial-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/BasicReceive.dir
-/home/charlie/Documents/QtSerial/build-BasicSerial-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
-/home/charlie/Documents/QtSerial/build-BasicSerial-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
-/home/charlie/Documents/QtSerial/build-BasicSerial-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
-/home/charlie/Documents/QtSerial/build-BasicSerial-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/install.dir
-/home/charlie/Documents/QtSerial/build-BasicSerial-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/install/local.dir
-/home/charlie/Documents/QtSerial/build-BasicSerial-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/install/strip.dir
-/home/charlie/Documents/QtSerial/build-BasicSerial-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/BasicReceive_autogen_timestamp_deps.dir
-/home/charlie/Documents/QtSerial/build-BasicSerial-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/BasicReceive_autogen.dir
