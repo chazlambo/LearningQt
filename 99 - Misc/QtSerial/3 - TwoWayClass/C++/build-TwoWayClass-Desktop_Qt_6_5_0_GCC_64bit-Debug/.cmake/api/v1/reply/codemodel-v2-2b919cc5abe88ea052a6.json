@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8cbcf8a3ca03c407e118.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TwoWayClass",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TwoWayClass::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TwoWayClass-Debug-ecaabb7e31272fce5cd9.json",
+					"name" : "TwoWayClass",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TwoWayClass_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TwoWayClass_autogen-Debug-02296817e7a3e39840c2.json",
+					"name" : "TwoWayClass_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TwoWayClass_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TwoWayClass_autogen_timestamp_deps-Debug-75980fbc8401ce78659c.json",
+					"name" : "TwoWayClass_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/charlie/Documents/LearnQt/99 - Misc/QtSerial/3 - TwoWayClass/C++/build-TwoWayClass-Desktop_Qt_6_5_0_GCC_64bit-Debug",
+		"source" : "/home/charlie/Documents/LearnQt/99 - Misc/QtSerial/3 - TwoWayClass/C++/TwoWayClass"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

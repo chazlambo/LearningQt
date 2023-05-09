@@ -12,7 +12,7 @@ private:
     QList<QSerialPortInfo> avail_ports;
     QSerialPort port;
     int portIndex;
-    QString desiredPort = "ttyS0";
+    QString desiredPort = "ttyACM0";
     bool enabled;
     bool isInError = false;
 
@@ -30,6 +30,7 @@ public:
 
 private slots:
     void read_serial_port();
+    void serial_port_error_handler();
 
 
 signals:

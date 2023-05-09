@@ -12,13 +12,13 @@ int main(int argc, char *argv[])
     bool runLoop = true;
 
     while(runLoop) {
-        qInfo() << "Enter enable, disable, start, or stop:";
+        qInfo() << "Enter open, close, start, or stop:";
         QTextStream qtin(stdin);    // Automatically converts cin to QString
         QString line = qtin.readLine().trimmed().toUpper(); // reads line, trims whitespace, converts to uppercase
-        if (line == "ENABLE") {
+        if (line == "OPEN") {
             arduino.enable();
         }
-        else if (line == "DISABLE") {
+        else if (line == "CLOSE") {
             arduino.disable();
         }
         else if (line == "START") {

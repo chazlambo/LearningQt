@@ -27,11 +27,15 @@ void loop() {
   // Update time
   t_ms = millis();
 
-  // Check if data is available and read it
-  Serial.println("Waiting for Serial.");
-  while (!Serial.available()) {};
-  Serial.println("Serial Received");
+  if (sendData == false) {
+    // Check if data is available and read it
+    Serial.println("Waiting for Serial.");
+    while (!Serial.available()) {};
+  }
+  
   if (Serial.available()) {
+    digitalWrite(LED_BUILTIN, HIGH);
+    delay(200);
     String input = Serial.readString();
     if (input == str_Start) { // Check for start signal
       sendData = true;
@@ -44,7 +48,9 @@ void loop() {
     else {  // Throw error for others
       sendData = false;
       digitalWrite(LED_BUILTIN, LOW);
-      Serial.println("<Error: Received bad command>");
+      Serial.print("<ERROR: Received bad command '");
+      Serial.print(input);
+      Serial.println("'>");
     }
   }
   

@@ -1,0 +1,9 @@
+/home/charlie/Documents/LearnQt/99 - Misc/QtSerial/3 - TwoWayClass/C++/build-TwoWayClass-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/TwoWayClass.dir
+/home/charlie/Documents/LearnQt/99 - Misc/QtSerial/3 - TwoWayClass/C++/build-TwoWayClass-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/charlie/Documents/LearnQt/99 - Misc/QtSerial/3 - TwoWayClass/C++/build-TwoWayClass-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/charlie/Documents/LearnQt/99 - Misc/QtSerial/3 - TwoWayClass/C++/build-TwoWayClass-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/charlie/Documents/LearnQt/99 - Misc/QtSerial/3 - TwoWayClass/C++/build-TwoWayClass-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/charlie/Documents/LearnQt/99 - Misc/QtSerial/3 - TwoWayClass/C++/build-TwoWayClass-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/charlie/Documents/LearnQt/99 - Misc/QtSerial/3 - TwoWayClass/C++/build-TwoWayClass-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/charlie/Documents/LearnQt/99 - Misc/QtSerial/3 - TwoWayClass/C++/build-TwoWayClass-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/TwoWayClass_autogen_timestamp_deps.dir
+/home/charlie/Documents/LearnQt/99 - Misc/QtSerial/3 - TwoWayClass/C++/build-TwoWayClass-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/TwoWayClass_autogen.dir
