@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-27a6df4c059166d5adc1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Throwing",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Throwing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Throwing-Debug-149f36a2259c40fcc5ac.json",
+					"name" : "Throwing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Throwing_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Throwing_autogen-Debug-941234d63df4f149816c.json",
+					"name" : "Throwing_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Throwing_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Throwing_autogen_timestamp_deps-Debug-5ff088b1e459df65d5aa.json",
+					"name" : "Throwing_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/charlie/Documents/LearnQt/11 - Exception Handling/ErrorsVsExceptions/build-Throwing-Desktop_Qt_6_5_0_GCC_64bit-Debug",
+		"source" : "/home/charlie/Documents/LearnQt/11 - Exception Handling/Throwing"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

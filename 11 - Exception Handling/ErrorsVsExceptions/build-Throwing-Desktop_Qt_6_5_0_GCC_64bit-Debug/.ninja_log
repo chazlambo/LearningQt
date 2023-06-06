@@ -1,0 +1,20 @@
+# ninja log v5
+0	79	1686027784928142018	Throwing_autogen/timestamp	3e6eefe481b5b662
+0	79	1686027784928142018	Throwing_autogen/mocs_compilation.cpp	3e6eefe481b5b662
+0	79	1686027784928142018	/home/charlie/Documents/LearnQt/11 - Exception Handling/ErrorsVsExceptions/build-Throwing-Desktop_Qt_6_5_0_GCC_64bit-Debug/Throwing_autogen/timestamp	3e6eefe481b5b662
+0	79	1686027784928142018	/home/charlie/Documents/LearnQt/11 - Exception Handling/ErrorsVsExceptions/build-Throwing-Desktop_Qt_6_5_0_GCC_64bit-Debug/Throwing_autogen/mocs_compilation.cpp	3e6eefe481b5b662
+79	94	1686027784928142018	CMakeFiles/Throwing.dir/Throwing_autogen/mocs_compilation.cpp.o	c9f3fe321797a565
+79	1034	1686027785895658053	CMakeFiles/Throwing.dir/main.cpp.o	5feb1d9fd33988bf
+1034	1136	1686027785995608057	Throwing	caf67c6906982469
+0	125	1686027879069051431	Throwing_autogen/timestamp	3e6eefe481b5b662
+0	125	1686027879069051431	Throwing_autogen/mocs_compilation.cpp	3e6eefe481b5b662
+0	125	1686027879069051431	/home/charlie/Documents/LearnQt/11 - Exception Handling/ErrorsVsExceptions/build-Throwing-Desktop_Qt_6_5_0_GCC_64bit-Debug/Throwing_autogen/timestamp	3e6eefe481b5b662
+0	125	1686027879069051431	/home/charlie/Documents/LearnQt/11 - Exception Handling/ErrorsVsExceptions/build-Throwing-Desktop_Qt_6_5_0_GCC_64bit-Debug/Throwing_autogen/mocs_compilation.cpp	3e6eefe481b5b662
+125	955	1686027879892639461	CMakeFiles/Throwing.dir/main.cpp.o	5feb1d9fd33988bf
+955	1042	1686027879944613463	Throwing	caf67c6906982469
+1	63	1686027887960603754	Throwing_autogen/timestamp	3e6eefe481b5b662
+1	63	1686027887960603754	Throwing_autogen/mocs_compilation.cpp	3e6eefe481b5b662
+1	63	1686027887960603754	/home/charlie/Documents/LearnQt/11 - Exception Handling/ErrorsVsExceptions/build-Throwing-Desktop_Qt_6_5_0_GCC_64bit-Debug/Throwing_autogen/timestamp	3e6eefe481b5b662
+1	63	1686027887960603754	/home/charlie/Documents/LearnQt/11 - Exception Handling/ErrorsVsExceptions/build-Throwing-Desktop_Qt_6_5_0_GCC_64bit-Debug/Throwing_autogen/mocs_compilation.cpp	3e6eefe481b5b662
+63	783	1686027888708229781	CMakeFiles/Throwing.dir/main.cpp.o	5feb1d9fd33988bf
+783	871	1686027888804181784	Throwing	caf67c6906982469
